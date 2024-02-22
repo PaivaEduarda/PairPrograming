@@ -13,3 +13,9 @@ The hero (user) must chase the monster and try to trap it against the trees. The
 - The monster will keep running away from the hero until the hero forces it out of the combat area.
 
 You can play using the keyboard (up, down, left, and right keys).
+
+# Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114159027?v=4" width=115><br><sub>Eduarda Paiva</sub>](https://github.com/PaivaEduarda) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/107715022?v=4" width=115><br><sub>Maria Eduarda Padovan</sub>](https://github.com/PADOVSZ) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/107726291?v=4" width=115><br><sub>Julia Enriquetto/sub>](https://github.com/juliaenriquetto) |
+| :---: | :---: | :---: |
+
